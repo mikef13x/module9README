@@ -1,0 +1,9 @@
+{
+	"title": "mikef module 9",
+	"description": "hello",
+	"email": "mikef132034!@FKSOJjdf.com",
+	"github": "mikef13x",
+	"license": [
+		"hello"
+	]
+}
