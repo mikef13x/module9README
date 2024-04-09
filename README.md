@@ -5,11 +5,11 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Description
-this is the description the user will input!
+this is where the user inputs description!
 ## Installation
 by running "npm i inquirer@8.2.4" in terminal
 ## Usage
@@ -26,5 +26,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Questions
 https://github.com/mikef13x/
-mikef132044@gmail.com
-You can reach me here at my email.
+
+mikef132044@gmail.com You can reach me here at my email.
