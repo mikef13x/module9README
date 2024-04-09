@@ -1,4 +1,4 @@
-# homework 9 
+# homework module 9 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
@@ -9,15 +9,15 @@
 - [License](#license)
 
 ## Description
-this is my description
+this is the description the user will input!
 ## Installation
-npm i inquierer@8.2.4
+by running "npm i inquirer@8.2.4" in terminal
 ## Usage
-undefined
+for creating read me files
 ## Contributors
-undefined
+michael freeman
 ## Tests
-by running node index
+by running "node index" in terminal
         
 
 ## License

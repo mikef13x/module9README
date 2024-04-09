@@ -33,6 +33,11 @@ inquirer
         },
         {
             type: 'input',
+            message: "what is the usage of the application",
+            name: 'usage',
+        },
+        {
+            type: 'input',
             message: "who are the contributors",
             name: 'contributors',
         },
@@ -65,7 +70,7 @@ ${renderLicenseBadge(license)}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Description
@@ -86,8 +91,8 @@ ${renderLicenseSection(license)}
 
 ## Questions
 https://github.com/${github}/
-${email}
-You can reach me here at my email.`
+
+${email} You can reach me here at my email.`
 
 
 //render license badges here
@@ -119,11 +124,3 @@ function renderLicenseSection(license) {
 
 }
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) { }
-
-// TODO: Create a function to initialize app
-// function init() { }
-
-// Function call to initialize app
-// init();
