@@ -1,5 +1,5 @@
 ## Description
-we were tasked to use Node.js to create a readme folder that is filled with a series of responses given by the user. 
+we were tasked to use Node.js to create a readme file that is filled with a series of responses given by the user. 
 
 
 ## Screenshot 
