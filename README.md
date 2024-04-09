@@ -1,4 +1,4 @@
-# lksdjfjlkdf 
+# homework 9 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
@@ -9,11 +9,15 @@
 - [License](#license)
 
 ## Description
-sdfsdfsdf
-npm i inquirer@8.2.4
+this is my description
+## Installation
+npm i inquierer@8.2.4
+## Usage
 undefined
+## Contributors
 undefined
-ruijdsfkljsdlkfj
+## Tests
+by running node index
         
 
 ## License
@@ -22,5 +26,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Questions
 https://github.com/mikef13x/
-
+mikef132044@gmail.com
 You can reach me here at my email.
