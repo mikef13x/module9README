@@ -56,7 +56,7 @@ inquirer
     ]).then((answers) => {
         const readMe = generateReadMe(answers)
 
-        fs.writeFile("README.md", readMe, (err) => {
+        fs.writeFile("./outputREADME/README.md", readMe, (err) => {
             err ? console.log(err) : console.log("success!")
         });
     });
