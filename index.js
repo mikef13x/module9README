@@ -18,7 +18,7 @@ inquirer
         },
         {
             type: 'input',
-            message: "what is your email",
+            message: "what is your email?",
             name: 'email',
         },
         {
